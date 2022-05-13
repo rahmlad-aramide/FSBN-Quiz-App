@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FSBN-Quiz-App/static/css/main.db1a9529.css",
+    "main.js": "/FSBN-Quiz-App/static/js/main.7ce5a502.js",
+    "index.html": "/FSBN-Quiz-App/index.html",
+    "main.db1a9529.css.map": "/FSBN-Quiz-App/static/css/main.db1a9529.css.map",
+    "main.7ce5a502.js.map": "/FSBN-Quiz-App/static/js/main.7ce5a502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1a9529.css",
+    "static/js/main.7ce5a502.js"
+  ]
+}
